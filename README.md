@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://anuswarrrao.netlify.app)
+
 <h1 align="center">Hi 👋, My name is Anuswar R Rao</h1>
 
 Welcome to my little corner of the coding universe! I'm a passionate in web development and artificial intelligence. Here, you'll find a mix of projects that reflect my skills, interests, and continuous learning journey.
