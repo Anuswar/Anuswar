@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anuswar R Rao
 =====================================================================================================================================
 
-Computer Science Engineer
--------------------------
-
 Welcome to my little corner of the coding universe! I'm a passionate in web development and artificial intelligence. Here, you'll find a mix of projects that reflect my skills, interests, and continuous learning journey.
 
 * 🌍  I'm based in India
