@@ -4,6 +4,8 @@ Welcome to my little corner of the coding universe! I'm a passionate in web deve
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+[![](https://visitcount.itsvg.in/api?id=Anuswar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <a href="https://www.github.com/Anuswar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Anuswar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/anuswarrrao" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anuswarrrao?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -11,7 +13,7 @@ src="https://img.shields.io/twitter/follow/anuswarrrao?logo=twitter&style=for-th
 
 * 🔭 I’m currently working on **Vexa Web Ap**
 * 🌱 I’m currently learning **DevOps**
-* 🖥️  See my portfolio at my [Website](http://anuswarrrao.netlify.app/)
+* 🖥️  See my portfolio at my [Website](http://anuswarrrao.netlify.app)
 * ✉️  You can contact me at [anuswarrrao@gmail.com](mailto:anuswarrrao@gmail.com)
 * 💬 Ask me about **web development , artificial intelligence**
 * 🤝  I'm open to collaborating on **Artificial Intelligence** projects
@@ -24,12 +26,6 @@ src="https://img.shields.io/twitter/follow/anuswarrrao?logo=twitter&style=for-th
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100086760363819) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuswarrrao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuswarrrao) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anuswarrrao) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anuswar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anuswar&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Anuswar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuswar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anuswar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Anuswar&icon=0&color=0)](https://visitcount.itsvg.in)
