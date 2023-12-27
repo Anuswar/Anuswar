@@ -1,5 +1,21 @@
-# 💫 About Me:
-Welcome to my little corner of the coding universe! I'm a passionate in web development and artificial intelligence. Here, you'll find a mix of projects that reflect my skills, interests, and continuous learning journey.<br><br>🌍 I'm based in India<br>🖥️ See my portfolio at My Website<br>✉️ You can contact me at anuswarrrao@gmail.com<br>🧠 I'm learning Natural Language Processing (NLP),<br>🤝 I'm open to collaborating on Artificial Intelligence projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anuswar R Rao
+=====================================================================================================================================
+
+Computer Science Engineer
+-------------------------
+
+Welcome to my little corner of the coding universe! I'm a passionate in web development and artificial intelligence. Here, you'll find a mix of projects that reflect my skills, interests, and continuous learning journey.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Website](http://anuswarrrao.netlify.app/)
+* ✉️  You can contact me at [anuswarrrao@gmail.com](mailto:anuswarrrao@gmail.com)
+* 🧠  I'm learning Natural Language Processing (NLP),
+* 🤝  I'm open to collaborating on Artificial Intelligence projects
+
+<a href="https://www.github.com/Anuswar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Anuswar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/anuswarrrao" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/anuswarrrao?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 
 ## 🌐 Socials:
