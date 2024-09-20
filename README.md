@@ -23,7 +23,6 @@
 </a>
 
 <!-- Current Activities and Contact Information -->
-## 👨‍💻 Current Activities
 - 🔭 I’m currently working on **Vexa Web App**
 - 🌱 I’m currently learning **DevOps**
 - 🖥️ See my portfolio at my [Website](http://anuswarrrao.netlify.app)
