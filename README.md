@@ -6,10 +6,6 @@
 
 <p align="center">
   Welcome to my little corner of the coding universe! I'm passionate about web development and artificial intelligence. Here, you'll find a mix of projects that reflect my skills, interests, and continuous learning journey.
-</p>
-
-<!-- Image aligned to the right for a better layout -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- Social and visit count badges -->
 [![](https://visitcount.itsvg.in/api?id=Anuswar&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -21,6 +17,10 @@
 <a href="https://www.x.com/anuswarrrao" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/anuswarrrao?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
+</p>
+
+<!-- Image aligned to the right for a better layout -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- Current Activities and Contact Information -->
 - 🔭 I’m currently working on **Vexa Web App**
